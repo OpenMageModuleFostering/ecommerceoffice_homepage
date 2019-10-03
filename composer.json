@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/ecommerceoffice_homepage",
+    "name": "openmage-module-fostering\/ecommerceoffice_homepage",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Organize home page in few clicks. Show best sellers,popular,new,most rated products and product reviews.",
     "authors": [
